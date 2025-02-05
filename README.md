@@ -16,3 +16,7 @@ This is the day 25 project of the course 100 Days of Code: The Complete Python P
 - `pandas` module 
 
 
+
+## **Example**
+
+![alt text](https://raw.githubusercontent.com/Bosaif39/example-pics/refs/heads/main/D_25.png?token=GHSAT0AAAAAAC6BJ7JZZXPWL4MDBSZF2U5CZ5DN4LQ)
