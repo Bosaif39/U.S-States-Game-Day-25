@@ -19,4 +19,4 @@ This is the day 25 project of the course 100 Days of Code: The Complete Python P
 
 ## **Example**
 
-![alt text]([https://raw.githubusercontent.com/Bosaif39/example-pics/refs/heads/main/D_25.png?token=GHSAT0AAAAAAC6BJ7JZZXPWL4MDBSZF2U5CZ5DN4LQ](https://raw.githubusercontent.com/Bosaif39/example-pics/refs/heads/main/d_25t.png?token=GHSAT0AAAAAADDL7KRBB4SA7TVDV4Z4PXD22AZTXZQ))
+![alt text](https://raw.githubusercontent.com/Bosaif39/example-pics/refs/heads/main/d_25t.png?token=GHSAT0AAAAAADDL7KRBB4SA7TVDV4Z4PXD22AZTXZQ)
